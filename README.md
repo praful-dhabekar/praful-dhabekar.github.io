@@ -5,4 +5,5 @@
 + Education
 + Skill sets
 
-<a href="https://praful-dhabekar.github.io" target="_blank" title="Praful's Portfolio">Check it out!</a>
+[Check it out!](https://praful-dhabekar.github.io "Praful's Portfolio")
+
